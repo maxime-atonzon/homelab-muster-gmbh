@@ -1,0 +1,12 @@
+# Geheimnisse und lokale Einstellungen
+.env
+*.env
+secrets/
+*.key
+*.pem
+
+# Images und virtuelle Festplatten
+*.iso
+*.qcow2
+*.vmdk
+*.vdi
